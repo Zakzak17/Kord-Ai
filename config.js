@@ -22,7 +22,7 @@ module.exports = {
     REACT: process.env.REACT || false,
     READ_MESSAGE: process.env.READ_MESSAGE || "false",
     OWNER_NAME: process.env.OWNER_NAME || "Z4CK",
-    BOT_NAME: process.env.BOT_NAME || "Kord",
+    BOT_NAME: process.env.BOT_NAME || "Z4CK",
     RENDER_API_KEY: process.env.RENDER_API_KEY,
     ANTIDELETE: process.env.ANTIDELETE || "on",
     ANTIDELETE_INCHAT: process.env.ANTIDELETE_INCHAT || "off",
